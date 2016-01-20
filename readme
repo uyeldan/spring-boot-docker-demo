@@ -1,0 +1,2 @@
+To build docker image; mvn package docker:build
+Maven docker plugin only work in Linux system
